@@ -27,6 +27,8 @@ namespace SlidingPanelForm
         public SlidingForm()
         {
             InitializeComponent();
+            this.Name = "Calculator";
+            this.Text = "Calculator";
 
             // Get panel width
             panel2_width = panel2.Width;
