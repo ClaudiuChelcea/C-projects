@@ -102,7 +102,7 @@ namespace SlidingPanelForm
                     button1.ForeColor = Color.Black;
                 }
                 else
-                {   // SJRINK CHANGED COLORS
+                {   // SHRINK CHANGED COLORS
                     button1.BackColor = Color.Purple;
                     button1.ForeColor = Color.White;
                 }
